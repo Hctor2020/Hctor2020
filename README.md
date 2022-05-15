@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zuhair
+- 👨🏽‍💻  I’m interested in Pentesting and Informatics Engineering
+- 📚 I'm still learning Pentesting
+- 🙏 I'm sorry if I'm not up to it
